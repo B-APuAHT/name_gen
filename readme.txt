@@ -1,0 +1,1 @@
+this is a web service that can generate random name
